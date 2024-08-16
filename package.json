@@ -1,0 +1,28 @@
+{
+  "name": "paylocity",
+  "version": "1.0.0",
+  "description": "UI Automation testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arturoa01/paylocity.git"
+  },
+  "keywords": [
+    "test",
+    "UI",
+    "paylocity"
+  ],
+  "author": "AAG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arturoa01/paylocity/issues"
+  },
+  "homepage": "https://github.com/Arturoa01/paylocity#readme",
+  "devDependencies": {
+    "cypress": "^13.13.3"
+  }
+}

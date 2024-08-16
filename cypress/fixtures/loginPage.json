@@ -1,0 +1,26 @@
+[{
+    "name": "Correct User, Correct Password",
+    "user": "TestUser414",
+    "pass": "X@/q2bcgI&iW",
+    "expected": "Fixtures are a great way to mock data for responses to routes"
+  },
+  {
+    "name": "Correct User, Incorrect Password",
+    "user": "TestUser414",
+    "pass": "triplePass",
+    "expected": "The specified username or password is incorrect."
+  },
+  {
+    "name": "Incorrect User, Correct Password",
+    "user": "aqaqaqaqaq",
+    "pass": "X@/q2bcgI&iW",
+    "expected": "The specified username or password is incorrect."
+  },
+  {
+    "name": "Incorrect User, Incorrect Password",
+    "user": "aqaqaqaqa",
+    "pass": "swswswsws",
+    "expected": "The specified username or password is incorrect."
+  }
+]  
+  

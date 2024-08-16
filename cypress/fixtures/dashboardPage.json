@@ -1,0 +1,21 @@
+[
+  {
+  "name": "Using fixtures to represent data",
+  "firstName": "Will",
+  "LastName": "Smith",
+  "dependants": 3,
+  "addButton": 0,
+  "cancelButton": 1
+},
+{
+  "name": "Using fixtures to represent data",
+  "firstName": "William",
+  "LastName": "Smith",
+  "dependants": 3,
+  "addButton": 1,
+  "cancelButton": 0,
+  "delete": 1,
+  "edit": 1
+}
+
+]
